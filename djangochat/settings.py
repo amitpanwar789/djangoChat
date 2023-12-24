@@ -1,5 +1,3 @@
-import os
-
 """
 Django settings for djangochat project.
 
